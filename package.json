@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadazizEsonboyev/goldweb-json-server.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadazizEsonboyev/goldweb-json-server/issues"
+  },
+  "homepage": "https://github.com/MuhammadazizEsonboyev/goldweb-json-server#readme",
   "dependencies": {
     "json-server": "^0.17.3"
   }
